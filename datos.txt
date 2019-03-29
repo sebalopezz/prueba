@@ -1,3 +1,6 @@
 
 Nombre y apellido: Sebastian Lopez
 Fecha de nacimiento: 03/04/1998
+
+Legajo: 22221
+Carrera: ISI
